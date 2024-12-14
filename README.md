@@ -11,7 +11,7 @@
 
 .2024-10-12 添加joy alpha2
 
-模型下载：https://pan.baidu.com/s/1dOjbUEacUOhzFitAQ3uIeQ?pwd=4ypv#list/path=%2F
+模型下载：https://pan.baidu.com/s/1dOjbUEacUOhzFitAQ3uIeQ?pwd=4ypv#list/path=%2F https://huggingface.co/Orenguteng/Llama-3.1-8B-Lexi-Uncensored-V2/tree/main
 
 Joy_caption_alpha 放到 models\Joy_caption_alpha 下载：https://huggingface.co/spaces/fancyfeast/joy-caption-alpha-two/tree/main/cgrkzexw-599808
 
